@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cindy Wah | Home</title>
+    <link rel="icon" type="image/png" href="WAH_Logo.png">
+      <link href='https://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+      
+    <style>
+    
+      body {
+        text-align: center;
+        margin: 0;
+        font-family: 'Open Sans', sans-serif;
+      }
+      
+      header {
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-image: url(https://static.pexels.com/photos/1188/city-landmark-lights-night.jpg);
+      }
+      
+      footer {
+        color: #fefad1;
+        padding: 20px;
+        background-color: #65587c;
+      }
+      
+      h1 {
+        font-family: 'Abril Fatface';
+      }
+      
+      h2 {
+        font-family: 'Abril Fatface';
+      }
+      
+     
+     a{
+       color: white;
+       text-decoration: none;
+     }
+     
+      #about {
+       color: #fefad1;
+       background-color: #2b184c;
+       padding: 57px;
+     }
+     
+    </style>
+    
+  </head>
+  <body>
+    <header>
+      
+      <nav>
+        <a href="index.html">Home</a> | <a href="#intro">About</a> | <a href="work.html">Work</a> | Contact
+      </nav>
+      
+      <img src="Wahsome_Designs_Logo_White.png" alt="Cindy Wah Logo">
+      
+    </header>
+    
+<section id="about">
+  <h2>About Me</h2>
+ <img src="repetition_lettering.jpg" alt="Lettering made with legos saying Repetition"></a>
+ <br>
+ <br>
+</section>
+
+<footer>
+  <h3>Social Media</h3>
+  <strong>Instagram: </strong> <a target="_blank" href= "https://www.instagram.com/wahsome1/"> Wahsome1 </a> 
+  <br>
+  <strong>Behance:</strong>
+  <br>
+  <strong>LinkedIn: </strong> <a target="_blank" href= "https://www.linkedin.com/in/cindywah"> Cindy Wah </a>
+</footer>
+</body>
+</html>
