@@ -2,8 +2,23 @@
 <html>
 <title>Midterm</title>
 
+<img src="designer desk.jpg" alt="designer desk">
+
+<body>
 <h1>EXTRA CREDIT</h1>
 <br>
 <h2>Code this website!</h2>
 
+It's easy if you know your HTML and CSS
 
+Due Week 6
+
+</body>
+
+<style>
+
+body {
+text-align: center;
+}
+
+</style>
